@@ -5,16 +5,23 @@
 Please enter a password, enter 'exit' to quit:
 
 Password: account8
+
 Password is in the dictionary followed by a digit.
 
 Password: accountability
+
 Password is in the dictionary.
 
 Password: 9a$D#qW7!uX&Lv3zT
+
 Separate Chaining (Old Hash): 6 comparisons
+
 Separate Chaining (Current Hash): 11 comparisons
+
 Linear Probing (Old Hash): 443 comparisons
+
 Linear Probing (Current Hash): 8876 comparisons
+
 Password is strong.
 
 Password: B@k45*W!c$Y7#zR9P
